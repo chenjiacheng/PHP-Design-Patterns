@@ -1,6 +1,6 @@
 <?php
 
-namespace singleton;
+namespace Singleton;
 
 class Db
 {
