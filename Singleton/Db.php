@@ -2,6 +2,11 @@
 
 namespace Singleton;
 
+/**
+ * 单例模式
+ * Class Db
+ * @package Singleton
+ */
 class Db
 {
     /**
