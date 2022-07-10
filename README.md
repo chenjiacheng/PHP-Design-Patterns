@@ -12,7 +12,7 @@
 
 ## 结构型模式
 
-* 代理模式（Proxy）
+* [代理模式（Proxy）](https://github.com/chenjiacheng/PHP-Design-Patterns/tree/master/Structural/Proxy)
 * 桥接模式（Bridge）
 * 装饰模式（Decorator）
 * [适配器模式（Adapter）](https://github.com/chenjiacheng/PHP-Design-Patterns/tree/master/Structural/Adapter)
