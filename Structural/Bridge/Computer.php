@@ -15,8 +15,5 @@ abstract class Computer
         $this->brand = $brand;
     }
 
-    public function info(): string
-    {
-        return $this->brand->info(); // 自带品牌
-    }
+    abstract public function info(): string;
 }

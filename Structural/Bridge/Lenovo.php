@@ -7,7 +7,7 @@ namespace Structural\Bridge;
 // 联想品牌
 class Lenovo implements Brand
 {
-    public function info(): string
+    public function name(): string
     {
         return '联想';
     }

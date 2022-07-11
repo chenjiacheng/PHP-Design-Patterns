@@ -9,7 +9,6 @@ class Laptop extends Computer
 {
     public function info(): string
     {
-        $brand = parent::info();
-        return $brand . '笔记本';
+        return $this->brand->name() . '笔记本';
     }
 }

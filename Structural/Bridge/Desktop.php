@@ -9,7 +9,6 @@ class Desktop extends Computer
 {
     public function info(): string
     {
-        $brand = parent::info();
-        return $brand . '台式机';
+        return $this->brand->name() . '台式机';
     }
 }
