@@ -16,7 +16,7 @@
 * [桥接模式（Bridge）](Structural/Bridge)
 * [装饰模式（Decorator）](Structural/Decorator)
 * [适配器模式（Adapter）](Structural/Adapter)
-- 门面模式（Facade）
+- [门面模式（Facade）](Structural/Facade)
 - 组合模式（Composite）
 - 享元模式（Flyweight）
 
