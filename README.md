@@ -18,7 +18,7 @@
 * [适配器模式（Adapter）](Structural/Adapter)
 - [门面模式（Facade）](Structural/Facade)
 - [组合模式（Composite）](Structural/Composite)
-- 享元模式（Flyweight）
+- [享元模式（Flyweight）](Structural/Flyweight)
 
 ## 行为型模式
 
