@@ -23,7 +23,7 @@
 ## 行为型模式
 
 * [观察者模式（Observer）](Behavioral/Observer)
-* 模板方法模式（Template Method）
+* [模板方法模式（Template Method）](Behavioral/Observer)
 * 策略模式（Strategy）
 * 责任链模式（Chain of Responsibility）
 * 迭代器模式（Iterator）
