@@ -27,7 +27,7 @@
 * [策略模式（Strategy）](Behavioral/Strategy)
 * [责任链模式（Chain of Responsibility）](Behavioral/ChainOfResponsibilities)
 * [迭代器模式（Iterator）](Behavioral/Iterator)
-* 状态模式（State）
+* [状态模式（State）](Behavioral/State)
 - 访问者模式（Visitor）
 - 备忘录模式（Memento）
 - 命令模式（Command）
