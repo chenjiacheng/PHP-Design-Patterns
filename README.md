@@ -32,7 +32,7 @@
 * [状态模式（State）](Behavioral/State)
 
 - [访问者模式（Visitor）](Behavioral/Visitor)
-- 备忘录模式（Memento）
+- [备忘录模式（Memento）](Behavioral/Memento)
 - 命令模式（Command）
 - 解释器模式（Interpreter）
 - 中介者模式（Mediator）
