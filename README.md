@@ -34,5 +34,5 @@
 - [访问者模式（Visitor）](Behavioral/Visitor)
 - [备忘录模式（Memento）](Behavioral/Memento)
 - [命令模式（Command）](Behavioral/Command)
-- 解释器模式（Interpreter）
+- [解释器模式（Interpreter）](Behavioral/Interpreter)
 - 中介者模式（Mediator）
