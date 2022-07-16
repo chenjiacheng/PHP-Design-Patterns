@@ -1,0 +1,31 @@
+<?php
+
+declare(strict_types=1);
+
+namespace Behavioral\Visitor;
+
+class RoleVisitor implements RoleVisitorInterface
+{
+    /**
+     * @var Role[]
+     */
+    private array $visited = [];
+
+    public function visitGroup(Group $role)
+    {
+        $this->visited[] = $role;
+    }
+
+    public function visitUser(User $role)
+    {
+        $this->visited[] = $role;
+    }
+
+    /**
+     * @return Role[]
+     */
+    public function getVisited(): array
+    {
+        return $this->visited;
+    }
+}
