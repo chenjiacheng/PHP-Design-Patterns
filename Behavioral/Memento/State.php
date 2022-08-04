@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Memento;
+namespace DesignPatterns\Behavioral\Memento;
 
 /**
  * 管理者角色

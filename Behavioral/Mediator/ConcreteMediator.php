@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Mediator;
+namespace DesignPatterns\Behavioral\Mediator;
 
 // 具体中介者
 class ConcreteMediator extends Mediator

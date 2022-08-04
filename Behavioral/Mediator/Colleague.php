@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Mediator;
+namespace DesignPatterns\Behavioral\Mediator;
 
 // 抽象同事类
 abstract class Colleague

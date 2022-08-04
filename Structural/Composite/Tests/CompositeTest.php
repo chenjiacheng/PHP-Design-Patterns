@@ -3,9 +3,9 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-use Structural\Composite\Form;
-use Structural\Composite\InputElement;
-use Structural\Composite\TextElement;
+use DesignPatterns\Structural\Composite\Form;
+use DesignPatterns\Structural\Composite\InputElement;
+use DesignPatterns\Structural\Composite\TextElement;
 
 class CompositeTest extends TestCase
 {

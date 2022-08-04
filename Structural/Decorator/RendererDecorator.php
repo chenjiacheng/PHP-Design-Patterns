@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Decorator;
+namespace DesignPatterns\Structural\Decorator;
 
 /**
  * 装饰者必须实现渲染接口类 RenderableInterface 契约，这是该设计

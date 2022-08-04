@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Creational\Prototype;
+namespace DesignPatterns\Creational\Prototype;
 
 class BarBookPrototype extends BookPrototype
 {

@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-use Structural\Flyweight\FlyweightFactory;
+use DesignPatterns\Structural\Flyweight\FlyweightFactory;
 
 class FlyweightTest extends TestCase
 {

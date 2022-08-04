@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Creational\SimpleFactory;
+namespace DesignPatterns\Creational\SimpleFactory;
 
 class Bicycle
 {

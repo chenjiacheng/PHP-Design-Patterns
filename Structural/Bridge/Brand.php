@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Bridge;
+namespace DesignPatterns\Structural\Bridge;
 
 interface Brand
 {

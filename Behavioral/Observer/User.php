@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Observer;
+namespace DesignPatterns\Behavioral\Observer;
 
 /**
  * User 实现观察者模式 (称为主体)，它维护一个观察者列表，

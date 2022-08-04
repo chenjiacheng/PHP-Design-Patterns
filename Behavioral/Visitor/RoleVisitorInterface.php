@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Visitor;
+namespace DesignPatterns\Behavioral\Visitor;
 
 /**
  * 注意：访问者不能自行选择调用哪个方法，

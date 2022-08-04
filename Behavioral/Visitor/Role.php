@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Visitor;
+namespace DesignPatterns\Behavioral\Visitor;
 
 interface Role
 {

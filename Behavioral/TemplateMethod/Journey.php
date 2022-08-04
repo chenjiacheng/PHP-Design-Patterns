@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\TemplateMethod;
+namespace DesignPatterns\Behavioral\TemplateMethod;
 
 abstract class Journey
 {

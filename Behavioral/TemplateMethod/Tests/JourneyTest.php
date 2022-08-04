@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use Behavioral\TemplateMethod\BeachJourney;
-use Behavioral\TemplateMethod\CityJourney;
+use DesignPatterns\Behavioral\TemplateMethod\BeachJourney;
+use DesignPatterns\Behavioral\TemplateMethod\CityJourney;
 use PHPUnit\Framework\TestCase;
 
 class JourneyTest extends TestCase

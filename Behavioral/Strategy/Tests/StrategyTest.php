@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-use Behavioral\Strategy\Context;
-use Behavioral\Strategy\DateComparator;
-use Behavioral\Strategy\IdComparator;
+use DesignPatterns\Behavioral\Strategy\Context;
+use DesignPatterns\Behavioral\Strategy\DateComparator;
+use DesignPatterns\Behavioral\Strategy\IdComparator;
 use PHPUnit\Framework\TestCase;
 
 class StrategyTest extends TestCase

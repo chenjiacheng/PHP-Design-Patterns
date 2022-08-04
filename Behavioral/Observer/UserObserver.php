@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Observer;
+namespace DesignPatterns\Behavioral\Observer;
 
 class UserObserver implements \SplObserver
 {

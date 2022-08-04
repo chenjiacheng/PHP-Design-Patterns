@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\ChainOfResponsibilities;
+namespace DesignPatterns\Behavioral\ChainOfResponsibilities;
 
 /**
  * 领导抽象类

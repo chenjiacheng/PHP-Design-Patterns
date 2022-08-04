@@ -3,9 +3,9 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-use Structural\Decorator\JsonRenderer;
-use Structural\Decorator\Webservice;
-use Structural\Decorator\XmlRenderer;
+use DesignPatterns\Structural\Decorator\JsonRenderer;
+use DesignPatterns\Structural\Decorator\Webservice;
+use DesignPatterns\Structural\Decorator\XmlRenderer;
 
 /**
  * 创建自动化测试单元 DecoratorTest 。

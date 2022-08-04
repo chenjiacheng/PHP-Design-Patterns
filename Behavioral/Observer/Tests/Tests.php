@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use Behavioral\Observer\User;
-use Behavioral\Observer\UserObserver;
+use DesignPatterns\Behavioral\Observer\User;
+use DesignPatterns\Behavioral\Observer\UserObserver;
 use PHPUnit\Framework\TestCase;
 
 class Tests extends TestCase

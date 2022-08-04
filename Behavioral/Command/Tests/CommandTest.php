@@ -1,10 +1,10 @@
 <?php
 
 
-use Behavioral\Command\ChangFenCommand;
-use Behavioral\Command\HeFenCommand;
-use Behavioral\Command\HunTunCommand;
-use Behavioral\Command\WaiterInvoker;
+use DesignPatterns\Behavioral\Command\ChangFenCommand;
+use DesignPatterns\Behavioral\Command\HeFenCommand;
+use DesignPatterns\Behavioral\Command\HunTunCommand;
+use DesignPatterns\Behavioral\Command\WaiterInvoker;
 use PHPUnit\Framework\TestCase;
 
 class CommandTest extends TestCase

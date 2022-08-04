@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Creational\SimpleFactory\Tests;
+namespace DesignPatterns\Creational\SimpleFactory\Tests;
 
-use Creational\SimpleFactory\Bicycle;
-use Creational\SimpleFactory\SimpleFactory;
+use DesignPatterns\Creational\SimpleFactory\Bicycle;
+use DesignPatterns\Creational\SimpleFactory\SimpleFactory;
 use PHPUnit\Framework\TestCase;
 
 class SimpleFactoryTest extends TestCase

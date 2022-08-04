@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-use Behavioral\ChainOfResponsibilities\ClassAdviser;
-use Behavioral\ChainOfResponsibilities\Dean;
-use Behavioral\ChainOfResponsibilities\DepartmentHead;
+use DesignPatterns\Behavioral\ChainOfResponsibilities\ClassAdviser;
+use DesignPatterns\Behavioral\ChainOfResponsibilities\Dean;
+use DesignPatterns\Behavioral\ChainOfResponsibilities\DepartmentHead;
 use PHPUnit\Framework\TestCase;
 
 class ChainTest extends TestCase

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Decorator;
+namespace DesignPatterns\Structural\Decorator;
 
 /**
  * 创建 Webservice 服务类实现 RenderableInterface。

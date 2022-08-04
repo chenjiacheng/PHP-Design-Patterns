@@ -1,14 +1,17 @@
 {
-  "require": {
-    "phpunit/phpunit": "9.5.16",
-    "ext-dom": "*",
-    "ext-json": "*"
-  },
-  "autoload": {
-    "classmap": [
-      "Behavioral",
-      "Creational",
-      "Structural"
-    ]
-  }
+    "require": {
+        "php": ">=7.4",
+        "ext-dom": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.16"
+    },
+    "autoload": {
+        "classmap": [
+            "Behavioral",
+            "Creational",
+            "Structural"
+        ]
+    }
 }

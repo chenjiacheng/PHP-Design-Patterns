@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Structural\Proxy\Tests;
+namespace DesignPatterns\Structural\Proxy\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Structural\Proxy\SubjectOneProxy;
-use Structural\Proxy\SubjectTwoProxy;
+use DesignPatterns\Structural\Proxy\SubjectOneProxy;
+use DesignPatterns\Structural\Proxy\SubjectTwoProxy;
 
 class ProxyTest extends TestCase
 {

@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Creational\Singleton;
+namespace DesignPatterns\Creational\Singleton;
 
 /**
  * Class Singleton
- * @package Creational\Singleton
+ * @package DesignPatterns\Creational\Singleton
  */
 final class Singleton
 {

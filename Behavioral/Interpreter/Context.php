@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Interpreter;
+namespace DesignPatterns\Behavioral\Interpreter;
 
 // 环境类
 class Context

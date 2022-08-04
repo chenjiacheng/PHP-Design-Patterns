@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Creational\StaticFactory\Tests;
+namespace DesignPatterns\Creational\StaticFactory\Tests;
 
-use Creational\StaticFactory\FormatNumber;
-use Creational\StaticFactory\FormatString;
-use Creational\StaticFactory\StaticFactory;
+use DesignPatterns\Creational\StaticFactory\FormatNumber;
+use DesignPatterns\Creational\StaticFactory\FormatString;
+use DesignPatterns\Creational\StaticFactory\StaticFactory;
 use PHPUnit\Framework\TestCase;
 
 class StaticFactoryTest extends TestCase

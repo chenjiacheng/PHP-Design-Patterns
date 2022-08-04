@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Interpreter;
+namespace DesignPatterns\Behavioral\Interpreter;
 
 // 非终结符表达式类
 class AndExpression implements Expression

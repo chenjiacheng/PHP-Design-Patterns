@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Command;
+namespace DesignPatterns\Behavioral\Command;
 
 // 具体命令：馄饨
 class HunTunCommand implements BreakfastCommand

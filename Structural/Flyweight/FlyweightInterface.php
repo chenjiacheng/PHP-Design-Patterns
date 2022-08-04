@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Flyweight;
+namespace DesignPatterns\Structural\Flyweight;
 
 /**
  * 创建享元接口 FlyweightInterface 。

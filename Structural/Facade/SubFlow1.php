@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Facade;
+namespace DesignPatterns\Structural\Facade;
 
 class SubFlow1
 {

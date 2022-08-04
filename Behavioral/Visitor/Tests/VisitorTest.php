@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-use Behavioral\Visitor\RoleVisitor;
-use Behavioral\Visitor\User;
-use Behavioral\Visitor\Group;
+use DesignPatterns\Behavioral\Visitor\RoleVisitor;
+use DesignPatterns\Behavioral\Visitor\User;
+use DesignPatterns\Behavioral\Visitor\Group;
 use PHPUnit\Framework\TestCase;
 
 class VisitorTest extends TestCase

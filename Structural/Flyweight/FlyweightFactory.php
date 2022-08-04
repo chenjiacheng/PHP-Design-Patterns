@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Flyweight;
+namespace DesignPatterns\Structural\Flyweight;
 
 /**
  * 工厂类会管理分享享元类，客户端不应该直接将他们实例化。

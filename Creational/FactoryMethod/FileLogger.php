@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Creational\FactoryMethod;
+namespace DesignPatterns\Creational\FactoryMethod;
 
 class FileLogger implements Logger
 {

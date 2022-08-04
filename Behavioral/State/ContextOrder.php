@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\State;
+namespace DesignPatterns\Behavioral\State;
 
 /**
  * 环境类

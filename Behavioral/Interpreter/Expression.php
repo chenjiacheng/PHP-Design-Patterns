@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Interpreter;
+namespace DesignPatterns\Behavioral\Interpreter;
 
 // 抽象表达式类
 interface Expression

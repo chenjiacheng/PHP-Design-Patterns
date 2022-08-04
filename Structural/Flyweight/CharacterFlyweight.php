@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Flyweight;
+namespace DesignPatterns\Structural\Flyweight;
 
 /**
  * 假如可以的话，实现享元接口并增加内存存储内部状态。

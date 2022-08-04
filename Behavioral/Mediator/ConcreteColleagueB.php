@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Mediator;
+namespace DesignPatterns\Behavioral\Mediator;
 
 // 具体同事类B
 class ConcreteColleagueB extends Colleague

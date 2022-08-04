@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Command;
+namespace DesignPatterns\Behavioral\Command;
 
 // 接收者：河粉厨师
 class HeFenReceiver

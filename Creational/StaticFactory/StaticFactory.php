@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Creational\StaticFactory;
+namespace DesignPatterns\Creational\StaticFactory;
 
 /**
  * 注意点1: 记住，静态意味着全局状态，因为它不能被模拟进行测试，所以它是有弊端的

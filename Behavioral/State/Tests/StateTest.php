@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-use Behavioral\State\CreateOrder;
-use Behavioral\State\ShippingOrder;
-use Behavioral\State\ContextOrder;
+use DesignPatterns\Behavioral\State\CreateOrder;
+use DesignPatterns\Behavioral\State\ShippingOrder;
+use DesignPatterns\Behavioral\State\ContextOrder;
 use PHPUnit\Framework\TestCase;
 
 class StateTest extends TestCase

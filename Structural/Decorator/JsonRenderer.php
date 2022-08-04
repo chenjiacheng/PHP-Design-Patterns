@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Decorator;
+namespace DesignPatterns\Structural\Decorator;
 
 /**
  * 创建 Json 修饰者并继承抽象类 RendererDecorator 。

@@ -11,7 +11,7 @@ class FacadeTest extends TestCase
 {
     public function testComputerOn()
     {
-        $facade = new Structural\Facade\Facade();
+        $facade = new DesignPatterns\Structural\Facade\Facade();
         $bool = $facade->prove();
 
         $this->assertTrue($bool);

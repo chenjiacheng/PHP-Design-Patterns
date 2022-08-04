@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Command;
+namespace DesignPatterns\Behavioral\Command;
 
 // 调用者：服务员
 class WaiterInvoker

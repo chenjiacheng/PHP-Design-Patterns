@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Mediator;
+namespace DesignPatterns\Behavioral\Mediator;
 
 // 抽象中介者
 abstract class Mediator

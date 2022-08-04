@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use Behavioral\Iterator\Book;
-use Behavioral\Iterator\BookList;
+use DesignPatterns\Behavioral\Iterator\Book;
+use DesignPatterns\Behavioral\Iterator\BookList;
 use PHPUnit\Framework\TestCase;
 
 class IteratorTest extends TestCase

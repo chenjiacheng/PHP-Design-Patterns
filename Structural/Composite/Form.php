@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Composite;
+namespace DesignPatterns\Structural\Composite;
 
 /**
  * 该组合内的节点必须派生于该组件契约。为了构建成一个组件树，

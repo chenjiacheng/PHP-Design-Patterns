@@ -1,9 +1,9 @@
 <?php
 
 
-use Behavioral\Mediator\ConcreteColleagueA;
-use Behavioral\Mediator\ConcreteColleagueB;
-use Behavioral\Mediator\ConcreteMediator;
+use DesignPatterns\Behavioral\Mediator\ConcreteColleagueA;
+use DesignPatterns\Behavioral\Mediator\ConcreteColleagueB;
+use DesignPatterns\Behavioral\Mediator\ConcreteMediator;
 use PHPUnit\Framework\TestCase;
 
 class MediatorTest extends TestCase

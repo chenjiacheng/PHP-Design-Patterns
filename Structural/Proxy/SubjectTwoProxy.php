@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Proxy;
+namespace DesignPatterns\Structural\Proxy;
 
 /**
  * 主题二代理

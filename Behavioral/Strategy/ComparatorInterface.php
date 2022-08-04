@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Strategy;
+namespace DesignPatterns\Behavioral\Strategy;
 
 interface ComparatorInterface
 {

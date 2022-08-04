@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Bridge;
+namespace DesignPatterns\Structural\Bridge;
 
 // 抽象的电脑类型
 abstract class Computer

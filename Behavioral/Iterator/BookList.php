@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Iterator;
+namespace DesignPatterns\Behavioral\Iterator;
 
 class BookList implements \Countable, \Iterator
 {

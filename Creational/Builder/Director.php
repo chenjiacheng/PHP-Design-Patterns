@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Creational\Builder;
+namespace DesignPatterns\Creational\Builder;
 
-use Creational\Builder\Parts\Vehicle;
+use DesignPatterns\Creational\Builder\Parts\Vehicle;
 
 /**
  * Director 类是建造者模式的一部分。

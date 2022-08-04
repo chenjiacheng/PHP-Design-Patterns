@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Creational\AbstractFactory;
+namespace DesignPatterns\Creational\AbstractFactory;
 
 interface Product
 {

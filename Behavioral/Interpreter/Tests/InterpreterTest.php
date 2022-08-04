@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use Behavioral\Interpreter\Context;
+use DesignPatterns\Behavioral\Interpreter\Context;
 use PHPUnit\Framework\TestCase;
 
 class InterpreterTest extends TestCase

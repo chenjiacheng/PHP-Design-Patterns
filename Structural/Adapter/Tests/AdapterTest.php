@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Structural\Adapter\Tests;
+namespace DesignPatterns\Structural\Adapter\Tests;
 
-use Structural\Adapter\Book;
-use Structural\Adapter\EBookAdapter;
-use Structural\Adapter\Kindle;
+use DesignPatterns\Structural\Adapter\Book;
+use DesignPatterns\Structural\Adapter\EBookAdapter;
+use DesignPatterns\Structural\Adapter\Kindle;
 use PHPUnit\Framework\TestCase;
 
 class AdapterTest extends TestCase

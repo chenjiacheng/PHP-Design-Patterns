@@ -3,10 +3,10 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-use Structural\Bridge\Apple;
-use Structural\Bridge\Desktop;
-use Structural\Bridge\Laptop;
-use Structural\Bridge\Lenovo;
+use DesignPatterns\Structural\Bridge\Apple;
+use DesignPatterns\Structural\Bridge\Desktop;
+use DesignPatterns\Structural\Bridge\Laptop;
+use DesignPatterns\Structural\Bridge\Lenovo;
 
 class BridgeTest extends TestCase
 {

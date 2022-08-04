@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Creational\Builder\Parts;
+namespace DesignPatterns\Creational\Builder\Parts;
 
 /**
  * 轮子

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structural\Adapter;
+namespace DesignPatterns\Structural\Adapter;
 
 class EBookAdapter implements BookInterface
 {

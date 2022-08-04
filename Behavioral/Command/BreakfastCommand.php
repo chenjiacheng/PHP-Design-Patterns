@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Behavioral\Command;
+namespace DesignPatterns\Behavioral\Command;
 
 // 抽象命令：早餐
 interface BreakfastCommand

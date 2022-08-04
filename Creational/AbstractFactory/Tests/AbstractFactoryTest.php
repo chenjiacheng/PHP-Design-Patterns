@@ -1,10 +1,10 @@
 <?php
 
-namespace Creational\AbstractFactory\Tests;
+namespace DesignPatterns\Creational\AbstractFactory\Tests;
 
-use Creational\AbstractFactory\DigitalProduct;
-use Creational\AbstractFactory\ProductFactory;
-use Creational\AbstractFactory\ShippableProduct;
+use DesignPatterns\Creational\AbstractFactory\DigitalProduct;
+use DesignPatterns\Creational\AbstractFactory\ProductFactory;
+use DesignPatterns\Creational\AbstractFactory\ShippableProduct;
 use PHPUnit\Framework\TestCase;
 
 class AbstractFactoryTest extends TestCase
